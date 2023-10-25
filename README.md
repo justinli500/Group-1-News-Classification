@@ -5,3 +5,7 @@ Detect and classify the political bias of an article. The model will output a fl
 
 ## Project Contributers
 Saad Ahmad, Jason Sze, Apoorv Pitta
+
+## Training data
+Credit to ramybaly
+Found here: https://github.com/ramybaly/Article-Bias-Prediction/tree/main
